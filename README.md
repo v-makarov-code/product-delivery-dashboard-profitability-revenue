@@ -3,6 +3,7 @@
 ## Обзор проекта 
 
 Схема базы данных:
+![Схема](https://github.com/v-makarov-code/product-delivery-dashboard-profitability-revenue/blob/main/database_schema.jpg)
 
 **Цель:** Разработать дашборд в Redash с метриками выручки и рентабельности
 **Задачи:**
@@ -31,5 +32,8 @@
 - PostgreSQL
 
 ## Вид дашборда
-
 [Ссылка на дашборд](https://redash.public.karpov.courses/public/dashboards/XiKbmG1ytqokwEUMjMD8x56RA5w1QQtrNrg2jdXb?org_slug=default)
+
+![дашдорд1](https://github.com/v-makarov-code/product-delivery-dashboard-profitability-revenue/blob/main/dashboard1.png)
+![дашдорд2](https://github.com/v-makarov-code/product-delivery-dashboard-profitability-revenue/blob/main/dashboard2.png)
+![дашдорд3](https://github.com/v-makarov-code/product-delivery-dashboard-profitability-revenue/blob/main/dashboard3.png)
